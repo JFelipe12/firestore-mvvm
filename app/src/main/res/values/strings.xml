@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SharePlacesApp</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="invalid_email">Email no válido</string>
+    <string name="invalid_password">Contraseña no válida</string>
+    <string name="nav_main_title">Lugares</string>
+
+    <string name="open_drawer">drawer open</string>
+    <string name="close_drawer">drawer close</string>
+    <string name="nav_logout_title">Cerrar sesión</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main">Lugares</string>
+    <string name="add_place_title">Agregar lugar</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699624432854",
+    "project_id": "shareplaceapp-13b98",
+    "storage_bucket": "shareplaceapp-13b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699624432854:android:9fa8308fe900ce24f35577",
+        "android_client_info": {
+          "package_name": "com.felipedeveloper.shareplacesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699624432854-43urdftastjbl23ivpednhgv0rl0ed6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgnEQNHZvWshOtUETwDIxf_tfltx6knQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699624432854-43urdftastjbl23ivpednhgv0rl0ed6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
