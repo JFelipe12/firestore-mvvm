@@ -7,3 +7,17 @@ Capa de presentación: No existe ningún tipo de lógica de negocio y está comp
 
 Capa de dominio : Sirve como mediador entre el viewmodel y el repositorio, para este caso contiene los casos de uso, sin embargo usaremos flujos,corutinas 
 y livedatas para tratar de agilizar la implementación
+
+Tecnologías:
+
+* viewmodel 
+* livedata
+* courotines
+* workmanager
+* flow
+* inyección de dependencias con hilt
+* room
+* firestore
+* firebase authentication
+* firebase storage
+* datastore 
